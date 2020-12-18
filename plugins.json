@@ -18,6 +18,13 @@
         "requires": "orca>=0.0.0",
         "sha512sum": "d930ec3d1f9e8b369b4e097bc539121c1109ed6d7bc1c9e474a44bc5e6823e256a77a93796f94cc9c79f54a623474a3518dc9cdf814d2b9b511d95444c4f0b3b",
         "preferred": false
+      },
+      {
+        "version": "0.0.1",
+        "date": "2020-12-18T01:45:57.399Z",
+        "requires": "orca>=0.0.0",
+        "sha512sum": "5fa2b6661ef86869a7b4638f882ee175ee5b1c89e5f9dbbb55a9d79cafc171c20a8bb089a3c6eec91bc9d259366fc5eab270cf9058bfd7c6eb1d141fa49a192f",
+        "preferred": false
       }
     ]
   }
